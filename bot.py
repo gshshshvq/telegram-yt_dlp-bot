@@ -32,7 +32,7 @@ while(argIdx < len(sys.argv)):
         quit()
     argIdx += 1
 
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot(5890537535:AAENTIHXZAuXVwvHwsGRZXuOROcphFzNewo)
 counter = 0
 
 with open('log.txt', 'a') as f:
